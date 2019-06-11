@@ -1,0 +1,14 @@
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WpfApp7\WpfApp2C\bin\Debug\WpfApp2C.exe.config
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WpfApp7\WpfApp2C\bin\Debug\WpfApp2C.exe
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WpfApp7\WpfApp2C\bin\Debug\WpfApp2C.pdb
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WpfApp7\WpfApp2C\obj\Debug\MainWindow.g.cs
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WpfApp7\WpfApp2C\obj\Debug\App.g.cs
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WpfApp7\WpfApp2C\obj\Debug\WpfApp2C_MarkupCompile.cache
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WpfApp7\WpfApp2C\obj\Debug\WpfApp2C_MarkupCompile.lref
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WpfApp7\WpfApp2C\obj\Debug\MainWindow.baml
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WpfApp7\WpfApp2C\obj\Debug\WpfApp2C.g.resources
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WpfApp7\WpfApp2C\obj\Debug\WpfApp2C.Properties.Resources.resources
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WpfApp7\WpfApp2C\obj\Debug\WpfApp2C.csproj.GenerateResource.cache
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WpfApp7\WpfApp2C\obj\Debug\WpfApp2C.csproj.CoreCompileInputs.cache
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WpfApp7\WpfApp2C\obj\Debug\WpfApp2C.exe
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WpfApp7\WpfApp2C\obj\Debug\WpfApp2C.pdb
